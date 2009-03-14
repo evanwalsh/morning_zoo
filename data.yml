@@ -1,0 +1,50 @@
+military_ranks:
+    - "Private"
+    - "Corporal"
+    - "Sergeant"
+    - "Warrant Officer"
+    - "Lieutenant"
+    - "Captain"
+    - "Major"
+    - "Colonel"
+    - "General"
+    
+extreme_names:
+    - "Fun"
+    - "Awesome"
+    - "Cool"
+    - "Extreme"
+    - "Rad"
+    - "Boogie"
+    - "Spike"
+    - "Goofball"
+    - "Dork"
+    
+animal_names:
+    - "Cougar"
+    - "Tiger"
+    - "Bear"
+    - "Lion"
+    - "Mongoose"
+    - "Cobra"
+    - "Devil"
+    
+female_names:
+    - "Sheila"
+    - "Debby"
+    - "Wanda"
+    - "Debra"
+    - "Betty"
+    - "Sarah"
+    - "Robin"
+    - "Jess"
+    
+locations:
+    - "Boneyard"
+    - "Drop Zone"
+    - "Jungle"
+    - "Boogie House"
+    - "Love Pad"
+    - "Monkey Cage"
+    - "Spooky Closet"
+    - "Party Palace"
