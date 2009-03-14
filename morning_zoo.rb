@@ -11,4 +11,4 @@ data = YAML.load(File.read("data.yml"))
   eval("@#{list} = @#{list.plural}[ rand( @#{list.plural}.length ) ]")
 end
 
-puts @military_rank+" "+@extreme_name+" and The "+@animal_name+" with "+@female_name+" in the "+@location
+puts "#{@military_rank} #{@extreme_name} and The #{@animal_name} with #{@female_name} in the #{@location}"
